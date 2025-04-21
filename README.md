@@ -10,7 +10,7 @@ Unfortunately this website has not been hosted publicly but a demo video can be 
 ## 🚀 Features
 
 - User-friendly interface
-- Backend powered by Python
+- Backend powered by Python/Flask
 - Frontend developed with HTML and CSS
 - Modular code structure for scalability
 
@@ -18,7 +18,7 @@ Unfortunately this website has not been hosted publicly but a demo video can be 
 
 - **Backend:** Python
 - **Frontend:** HTML, CSS
-- **Additional Tools:** Flask (assumed based on `run.py`), JavaScript (if applicable)
+- **Additional Tools:** Flask , ItsDangerous
 
 ## 📁 Project Structure
 
@@ -26,7 +26,7 @@ Unfortunately this website has not been hosted publicly but a demo video can be 
 chillpeople/
 ├── chillapp/             # Main application directory
 ├── instance/             # Instance folder for configurations
-├── node_modules/         # Node.js modules (if using any frontend tooling)
+├── node_modules/         # Node.js modules 
 ├── __pycache__/          # Python cache files
 ├── package.json          # Node.js package file
 ├── package-lock.json     # Node.js lock file
